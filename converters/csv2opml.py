@@ -23,7 +23,7 @@ portfolio = ""
 if len(sys.argv) == 3:
     out_filename = str(sys.argv[2])
 else:
-    out_filename = in_filename.split('.')[0] + '.opml'
+    out_filename = in_filename[:-3] + 'opml'
 with open(out_filename, 'w') as opml_file:
     opml_file.write('<?xml version="1.0" encoding="UTF-8"?>\n')
     opml_file.write('<opml version="1.0">\n')
