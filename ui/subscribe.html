@@ -11,24 +11,22 @@
 <!--[if !(IE)]><!-->
 <html class="no-js" lang="en">
 <!--<![endif]-->
-
 <head>
 	<meta charset="utf-8">
-	<title>Media releases | australia.gov.au</title>
+	<title>Subscribe to Media releases | australia.gov.au</title>
 	<script type="text/javascript">
 		var $html = document.documentElement; if ($html.classList) $html.classList.remove("no-js"), $html.classList.add("js"); else { var className = "no-js"; $html.className = $html.className.replace(new RegExp("(^|\\b)" + className.split(" ").join("|") + "(\\b|$)", "gi"), " "), $html.className += " js" }
 	</script>
 	<!-- Component styles -->
 	<link type="text/css" rel="stylesheet" href="css/main.css">
 </head>
-
 <body class="au-grid">
 	<!-- SKIP-LINKS -->
 	<nav class="au-skip-link">
 		<a class="au-skip-link__link" href="#content">Skip to main content</a>
 		<a class="au-skip-link__link" href="#mainmenu">Skip to main navigation</a>
 	</nav>
-	<!-- Header -->
+	<!-- HEADER -->
 	<header class="au-grid au-header au-header--dark" role="banner">
 		<div class="container-fluid">
 			<div class="row">
@@ -43,13 +41,15 @@
 			</div>
 		</div>
 	</header>
-	<!-- Navigation -->
+	<!-- MAIN NAVIGATION -->
 	<nav class="au-main-nav" id="#mainmenu" aria-label="main">
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-md-12">
 					<div id="main-nav-default" class="au-main-nav__content">
-						<button aria-controls="main-nav-default" aria-expanded="false"
+						<button
+							aria-controls="main-nav-default"
+							aria-expanded="false"
 							class="au-main-nav__toggle au-main-nav__toggle--open"
 							onClick="return AU.mainNav.Toggle( this )">
 							Menu
@@ -57,7 +57,8 @@
 						<div class="au-main-nav__menu">
 							<div class="au-main-nav__menu-inner">
 								<div class="au-main-nav__focus-trap-top"></div>
-								<button aria-controls="main-nav-default"
+								<button
+									aria-controls="main-nav-default"
 									class="au-main-nav__toggle au-main-nav__toggle--close"
 									onClick="return AU.mainNav.Toggle( this )">
 									Close
@@ -73,7 +74,9 @@
 								<div class="au-main-nav__focus-trap-bottom"></div>
 							</div>
 						</div>
-						<div class="au-main-nav__overlay" aria-controls="main-nav-default"
+						<div
+							class="au-main-nav__overlay"
+							aria-controls="main-nav-default"
 							onClick="return AU.mainNav.Toggle( this )">
 						</div>
 					</div>
@@ -81,7 +84,7 @@
 			</div>
 		</div>
 	</nav>
-	<!-- Content -->
+	<!-- MAIN CONTENT -->
 	<main>
 		<div class="au-body">
 			<div class="container-fluid">
@@ -91,43 +94,41 @@
 						<ul class="au-link-list au-link-list--inline">
 							<li><a href="#">Home</a></li>
 							<li><a href="#">News and Social Media</a></li>
-							<li>Australian Government media releases</li>
+							<li><a href="index.html">Australian Government media releases</a></li>
+							<li>Subscribe</li>
 						</ul>
 					</nav>
 				</div>
 				<div class="row">
-					<!-- Side menu -->
-					<div class="col-sm-4">
-						<aside class="au-side-nav au-accordion" aria-label="side navigation">
-							<button class="au-side-nav__toggle au-accordion__title au-accordion--closed"
-								aria-controls="nav-default" aria-expanded="false"
-								onclick="return AU.accordion.Toggle( this )">
-								In this section
-							</button>
-							<div id="nav-default" class="au-side-nav__content au-accordion--closed au-accordion__body">
-								<h4 class="au-sidenav__title">
-									In this section
-								</h4>
-								<ul class="au-link-list">
-									<li><a href="https://www.australia.gov.au/news-and-social-media/media-releases">Latest media releases</a></li>
-									<li><a href="subscribe.html">Subscribe to media releases</a></li>
-								</ul>
-							</div>
-						</aside>
-					</div>
 					<!-- Content -->
 					<div class="col-sm-8" id="content">
-						<h1 class="field-content">Australian Government media releases</h1>
-						<p>We collect media releases daily from Australian Government websites.</p>
-						<h2><a href="https://media.australia.gov.au/mediaRelease">Latest media releases</a></h2>
-						<p>View a list of the latest media releases from Australian Government websites. It is generated
-							daily from new media releases collected overnight.</p>
-						<h2><a href="subscribe.html">Subscribe to media releases</a></h2>
-						<p>Get notified of new Australian Government media releases by email. Items that appear in the
-							media release service are the responsibility of the authoring agency.</p>
+						<div class="au-form-group">
+							<h1 class="au-display-xxl">Subscribe to Australian Government media releases</h1>
+							<span class="au-hint-text">Please enter the email address you would like us to send media releases to.</span>
+						</div>
+						<div class="au-form-group">
+							<label class="au-label" for="email">Email address</label>
+							<input type="email" class="au-text-input au-text-input--width-xl" id="email" name="email">
+						</div>
+						<div class="au-form-group">
+							<div class="au-control-input au-control-input--block">
+								<input class="au-control-input__input" type="checkbox" name="checkbox-ex" id="accept-terms">
+								<label class="au-control-input__text" for="accept-terms">Do you accept the <a href="terms.html">terms of use</a>?</label>
+							</div>
+						</div>
+						<div class="au-form-group">
+							<a href="subscribe-topic.html" class="au-btn">Subscribe by topic</a>
+							<a href="subscribe-portfolio.html" class="au-btn">Subscribe by portfolio</a>
+						</div>
+						<div class="au-form-group">
+							<span class="au-hint-text">You can download all the RSS feeds via OPML and input them into the feed reader of your choice.</span>
+						</div>
+						<div class="au-form-group">
+							<a href="opml-downloaded.html" class="au-btn">Download OPML</a>
+						</div>
 					</div>
 				</div>
-			</div>
+			</div>	
 		</div>
 		<!-- Footer -->
 		<footer class="au-footer au-footer--dark au-body au-body--dark" role="contentinfo">
@@ -137,5 +138,4 @@
 		</footer>
 	</main>
 </body>
-
 </html>
