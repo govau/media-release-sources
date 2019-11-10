@@ -16,9 +16,9 @@ Use the newly created OPML file in your feed reader.
 
 In Feedly you can upload using [feedly.com/i/cortex](https://feedly.com/i/cortex)
 
-![Feedly upload: Choose OPML file or drag OPML file here](docs/images/feedly01.png)
-![Feedly upload: New sources successfully added to Feedly from media-release-rss.opml](docs/images/feedly02.png)
-![Feedly upload: All personal feeds showing newly added media releases](docs/images/feedly03.png)
+![Feedly upload: Choose OPML file or drag OPML file here](/docs/images/feedly01.png)
+![Feedly upload: New sources successfully added to Feedly from media-release-rss.opml](/docs/images/feedly02.png)
+![Feedly upload: All personal feeds showing newly added media releases](/docs/images/feedly03.png)
 
 Note: You can view which Australian Government websites the media releases are coming from in the media-release-rss.csv file.
 
@@ -45,7 +45,7 @@ python rssparser.py csv_filename
 1. Updates to media-release-rss.csv will trigger csv2opml.py to be run against it and the resulting OPML file will be updated in the repository.
 2. Subscription service for media releases. Initial designs can be viewed in the "ui" folder.
 
-![User interface design for subscribing to Australian Government media releases as seen in ui/subscribe.html](docs/images/ui.png)
+![User interface design for subscribing to Australian Government media releases as seen in ui/subscribe.html](/docs/images/ui.png)
 
 ## Guidance for publishing your media releases
 
