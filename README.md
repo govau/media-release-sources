@@ -20,6 +20,9 @@ In Feedly you can upload using [feedly.com/i/cortex](https://feedly.com/i/cortex
 ![Feedly upload: New sources successfully added to Feedly from media-release-rss.opml](/docs/images/feedly02.png?raw=true)
 ![Feedly upload: All personal feeds showing newly added media releases](/docs/images/feedly03.png?raw=true)
 
+<img src="/docs/images/feedly03.png" alt="Feedly upload: All personal feeds showing newly added media releases">
+<img src="/docs/images/feedly03.png?raw=true" alt="Feedly upload: All personal feeds showing newly added media releases">
+
 Note: You can view which Australian Government websites the media releases are coming from in the media-release-rss.csv file.
 
 ### Update the sources
