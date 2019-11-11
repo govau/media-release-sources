@@ -1,20 +1,12 @@
-Portfolio,Feed Name,Feed URL,HTML URL
-Agriculture,Departmental Media Releases,http://www.agriculture.gov.au/about/media-centre/media-releases/media_releases_rss,http://www.agriculture.gov.au/about/media-centre/media-releases
-Agriculture,ABARES Media Releases,http://www.agriculture.gov.au/abares/news/media-releases/rss,http://www.agriculture.gov.au/about/media-centre/media-releases
-Agriculture,Australian Fisheries Management Authority,https://feeds.feedburner.com/AustralianFisheriesManagementAuthority,https://www.afma.gov.au/news-and-media
-Agriculture,Australian Pesticides and Veterinary Medicines Authority,N/A,https://apvma.gov.au/news-and-publications/media-releases
-Agriculture,Fisheries Research and Development Corporation,N/A,https://www.frdc.com.au/media-publications/news-and-media-releases
-Agriculture,Grains Research and Development Corporation,N/A,https://grdc.com.au/news-and-media/news-and-media-releases
-Agriculture,Murray-Darling Basin Authority Media Statements,N/A,https://www.mdba.gov.au/media?field_media_type_value_1=media_statements&field_media_release_topic_tid=All&date_filter%5Bvalue%5D%5Byear%5D=
-Agriculture,Murray-Darling Basin Authority Media Releases,N/A,"https://www.mdba.gov.au/media?field_media_type_value_1=mediarelease&field_media_release_topic_tid=All&date_filter%5Bvalue%5D%5Byear%5D="
-Agriculture,Murray-Darling Basin Authority Speeches and Transcripts,N/A,https://www.mdba.gov.au/media?field_media_type_value_1=transcripts&field_media_release_topic_tid=All&date_filter%5Bvalue%5D%5Byear%5D=
-Agriculture,Regional Investment Corporation,N/A,https://www.ric.gov.au/about/news
-Agriculture,Rural Industries Research and Development Corporation (trading as AgriFutures Australia),N/A,N/A
-Agriculture,Wine Australia,https://www.wineaustralia.com/special-pages/rss/stories,https://www.wineaustralia.com/news/media-releases
-Attorney General's,Attorney General's Department,N/A,https://www.ag.gov.au/Publications/Pages/default.aspx
-Attorney General's,Administrative Appeals Tribunal,N/A,https://www.aat.gov.au/news
-Attorney General's,Asbestos Safety and Eradication Agency,N/A,https://www.asbestossafety.gov.au/news
-Attorney General's,Australian Building and Construction Commission,N/A,https://www.abcc.gov.au/news-and-media?field_category=43
-Attorney General's,Australian Commission for Law Enforcement Integrity,https://www.aclei.gov.au/rss.xml,https://www.aclei.gov.au/media
-Services Australia,Digital Transformation Agency,https://www.dta.gov.au/news-blogs/feed/news_item,https://www.dta.gov.au/news-blogs/all?f%5B0%5D=content_type%3Amedia_release
-Communications and the Arts,Australian Broadcasting Corporation,https://about.abc.net.au/feed/,https://about.abc.net.au/~
+"Portfolio","Feed name","Feed URL","HTML URL","Notes"
+"Services Australia","Digital Transformation Agency","https://www.dta.gov.au/news-blogs/feed/news_item","https://www.dta.gov.au/news-blogs/all?f%5B0%5D=content_type%3Amedia_release",""
+"Communications and the Arts","Australian Broadcasting Corporation","https://about.abc.net.au/feed/","https://about.abc.net.au/",""
+"Health","Latest news | Australian Government Department of Health","https://www.health.gov.au/news/rss.xml","https://www.health.gov.au/news",""
+"Education","Ministers' Media Centre - Media Release","https://ministers.education.gov.au/releases_rss?release_types=15","https://ministers.education.gov.au",""
+"Taxation","ATO - Media releases","https://www.ato.gov.au/rss.aspx?category=1837","https://www.ato.gov.au/Media-centre",""
+"Social Services","Department of Social Services, Australian Government","https://www.dss.gov.au/rss.xml","https://www.dss.gov.au/about-the-department/news",""
+"Social Services","Ministers for the Department of Social Services - Anne Ruston","https://ministers.dss.gov.au/feeds/anne-ruston/rss.xml","https://ministers.dss.gov.au/anne-ruston",""
+"Social Services","Ministers for the Department of Social Services - Michelle Landry","https://ministers.dss.gov.au/feeds/michelle-landry/rss.xml","https://ministers.dss.gov.au/michelle-landry",""
+"Social Services","Ministers for the Department of Social Services - Luke Howarth","https://ministers.dss.gov.au/feeds/luke-howarth/rss.xml","https://ministers.dss.gov.au/luke-howarth",""
+"Social Services","Ministers for the Department of Social Services - Stuart Robert","https://ministers.dss.gov.au/feeds/stuart-robert/rss.xml","https://ministers.dss.gov.au/stuart-robert",""
+"Communications and the Arts","Ministers for Communications and the Arts","https://www.minister.communications.gov.au/rss.xml","https://www.minister.communications.gov.au","contains social media posts"
