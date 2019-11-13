@@ -1,0 +1,1 @@
+The CSS selector scraper takes a csv file as input. The list of URLs are passed into the scraper. The scraper runs and grabs the Url, Title and description text for each media release and then outputs these into a csv that a future system can implement.
