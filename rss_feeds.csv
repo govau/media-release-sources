@@ -6,7 +6,6 @@ Agriculture,Department of Agriculture,http://www.agriculture.gov.au/_layouts/15/
 Agriculture,Department of Agriculture,http://www.agriculture.gov.au/_layouts/15/srchrss.aspx?k=owstaxIdAgriculturex0020Taxonomy:5e2efaf7-9de0-44ff-80f0-bf44deb98b94
 Agriculture,Australian Fisheries Management Authority,https://feeds.feedburner.com/AustralianFisheriesManagementAuthority
 Agriculture,Wine Australia,https://www.wineaustralia.com/special-pages/rss/stories
-Agriculture,Senator the Hon Bridget McKenzie,N/A
 Attorney General's,Australian Commission for Law Enforcement Integrity,https://www.aclei.gov.au/rss.xml
 Attorney General's,Australian Human Rights Commission,https://www.humanrights.gov.au/sites/default/files/content/rss/media.xml
 Attorney General's,Comcare,https://www.comcare.gov.au/news__and__media/rss_feeds/rss_news2
@@ -17,8 +16,6 @@ Attorney General's,Office of the Director of Public Prosecutions,https://www.cdp
 Attorney General's,Safe Work Australia,https://www.safeworkaustralia.gov.au/rss/news
 Communication and the Arts,The Hon Paul Fletcher MP,https://www.minister.communications.gov.au/rss.xml
 Communications and the Arts,Department of Communications and the Arts,https://www.communications.gov.au/news/feed
-Communications and the Arts,Australian Communications and Media Authority,https://acma.gov.au//theACMA/Newsroom/Newsroom/Media%20releases/rss
-Communications and the Arts,Australian Communications and Media Authority,https://acma.gov.au/theACMA/Newsroom/Newsroom/Speeches/rss
 Communications and the Arts,NBN Co Limited,https://www.nbnco.com.au/utility/rss/media-statements.xml
 Defence,Australian Strategic Policy Institute Limited,https://www.aspi.org.au/rss/news.rss
 Education,Department of Education,https://ministers.education.gov.au/releases_rss?release_types=15
@@ -32,14 +29,13 @@ Employment Skills Small and Family Business,Department of Employment  Skills Sma
 Employment Skills Small and Family Business,Australian Skills Quality Authority (National Vocational Education and Training Regulator),https://www.asqa.gov.au/rss.xml
 Employment Skills Small and Family Business,Senator the Hon Michaelia Cash,https://ministers.employment.gov.au/releases_rss?minister=13105
 Environment and Energy,Department of the Environment and Energy,http://www.environment.gov.au/rss-feed
-Environment and Energy,Bureau of Meteorology,http://www.bom.gov.au/rss/
+Environment and Energy,Bureau of Meteorology,http://media.bom.gov.au/rss/
 Environment and Energy,Climate Change Authority,http://climatechangeauthority.gov.au/latest.xml
 Environment and Energy,The Hon Sussan Ley MP,https://minister.environment.gov.au/feed/ley/rss.xml
 Environment and Energy,The Hon Trevor Evans MP,https://minister.environment.gov.au/feed/evans/rss.xml
 Finance,Senator the Hon Mathias Cormann,https://ministers.treasury.gov.au/ministers/mathias-cormann-2014/media-releases/feed
-Finance,Senator the Hon Jane Hume,"https://ministers.treasury.gov.au/ministers/jane-hume-2019/speeches/feed 
-https://ministers.treasury.gov.au/ministers/jane-hume-2019/media-releases/feed"
-Foreign Affairs and Trade,Australian Trade and Investment Commission (Austrade),https://www.austrade.gov.au/About-Austrade/Site-information/RSS/RSS
+Finance,Senator the Hon Jane Hume,https://ministers.treasury.gov.au/ministers/jane-hume-2019/media-releases/feed
+Foreign Affairs and Trade,Australian Trade and Investment Commission (Austrade),http://feeds.feedburner.com/Austrade
 Foreign Affairs and Trade,Senator the Hon Marise Payne,https://foreignminister.gov.au/_layouts/feed.aspx?xsl=1&web=%2F&page=1ac57cc2-3e98-49a5-92a0-26b817a4991d&wp=f9fa3e69-cc04-4c62-b587-5c32edcaddef&pageurl=%2FPages%2FRSS%2DFeed%2Easpx
 Foreign Affairs and Trade,Senator the Hon Simon Birmingham,http://trademinister.gov.au/_layouts/dfat.ministers/feed.aspx?xsl=1&web=%2FTradeMinister&page=6ff9d43d-9d8c-481c-ad76-065fcda6b1ca&wp=47b917a9-848a-49ec-8aab-164a7882de65&pageurl=%2FTradeMinister%2FPages%2FRSS%2DFeed%2Easpx
 Health,Department of Health,https://www.health.gov.au/news/rss.xml

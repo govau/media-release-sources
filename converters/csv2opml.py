@@ -15,7 +15,7 @@ with open(in_filename) as csv_file:
     line_count = 0
     for row in csv_reader:
         if line_count != 0:
-            feeds.append([row[0], row[1], row[2], row[3]])
+            feeds.append([row[0], row[1], row[2]])
         line_count += 1
 
 feeds = sorted(feeds, key=lambda feed: feed[0])
@@ -40,7 +40,7 @@ with open(out_filename, 'w') as opml_file:
             portfolio = row[0]
             opml_file.write('            </outline>\n')
             opml_file.write('            <outline text="' + portfolio + '" title="' + portfolio + '">\n')
-        opml_file.write('                <outline type="rss" text="' + row[1] + '" title="' + row[1] + '" xmlUrl="' + row[2] + '" htmlUrl="' + row[3] + '"/>\n')
+        opml_file.write('                <outline type="rss" text="' + row[1] + '" title="' + row[1] + '" xmlUrl="' + row[2] + '" htmlUrl="' + '"/>\n')
     opml_file.write('            </outline>\n')
     opml_file.write('        </outline>\n')
     opml_file.write('    </body>\n')
