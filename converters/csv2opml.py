@@ -40,7 +40,7 @@ with open(out_filename, 'w') as opml_file:
             portfolio = row[0]
             opml_file.write('            </outline>\n')
             opml_file.write('            <outline text="' + portfolio + '" title="' + portfolio + '">\n')
-        opml_file.write('                <outline type="rss" text="' + row[1] + '" title="' + row[1] + '" xmlUrl="' + row[2] + '" htmlUrl="' + '"/>\n')
+        opml_file.write('                <outline type="rss" text="' + row[1] + '" title="' + row[1] + '" xmlUrl="' + row[2] + '"/>\n')
     opml_file.write('            </outline>\n')
     opml_file.write('        </outline>\n')
     opml_file.write('    </body>\n')
