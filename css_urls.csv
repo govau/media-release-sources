@@ -8,6 +8,9 @@ Murray-Darling Basin Authority,Agriculture,"https://www.mdba.gov.au/media?field_
 https://www.mdba.gov.au/media?field_media_type_value_1=media_statements&field_media_release_topic_tid=All&date_filter%5Bvalue%5D%5Byear%5D="
 Regional Investment Corporation,Agriculture,https://www.ric.gov.au/about/news
 Wine Australia,Agriculture,https://www.wineaustralia.com/news/media-releases
+Senator the Hon Jonathon Duniam,Agriculture,https://minister.agriculture.gov.au/Duniam/media-releases
+Senator the Hon Bridget McKenzie,Agriculture,"https://minister.agriculture.gov.au/McKenzie/media-releases
+https://minister.agriculture.gov.au/McKenzie/speeches-and-transcripts"
 Attorney General's Department,Attorney General's,https://www.ag.gov.au/Publications/Pages/default.aspx
 Administrative Appeals Tribunal,Attorney General's,https://www.aat.gov.au/news
 Asbestos Safety and Eradication Agency,Attorney General's,https://www.asbestossafety.gov.au/news
@@ -32,6 +35,7 @@ Office of the Director of Public Prosecutions,Attorney General's,https://www.cdp
 Office of the Inspector-General of Intelligence and Security,Attorney General's,https://www.igis.gov.au/about/news
 Safe Work Australia,Attorney General's,https://www.safeworkaustralia.gov.au/media-centre/media-releases
 Seafarers Safety Rehabilitation and Compensation Authority,Attorney General's,https://www.seacare.gov.au/news/news_listing
+The Hon Christian Porter MP,Attorney General's,https://www.attorneygeneral.gov.au/Media/Pages/default.aspx
 Department of Communications and the Arts,Communications and the Arts,https://www.communications.gov.au/departmental-news
 Australia Business Arts Foundation (Creative Partnerships Australia),Communications and the Arts,https://www.creativepartnershipsaustralia.org.au/news-blog/
 Australia Council,Communications and the Arts,https://www.australiacouncil.gov.au/news/media-centre/media-releases/
@@ -52,6 +56,7 @@ NBN Co Limited,Communications and the Arts,https://www.nbnco.com.au/corporate-in
 Old Parliament House,Communications and the Arts,https://www.moadoph.gov.au/about/media/
 Screen Australia,Communications and the Arts,https://www.screenaustralia.gov.au/media-centre/media-releases
 Special Broadcasting Service Corporation,Communications and the Arts,https://www.sbs.com.au/aboutus/news-media-releases
+The Hon Paul Fletcher MP,Communications and the Arts,https://www.minister.communications.gov.au/minister/Paul-Fletcher
 Department of Defence,Defence,"https://www.minister.defence.gov.au/news-media/media-releases 
 https://www.minister.defence.gov.au/news-media/speeches 
 https://www.minister.defence.gov.au/minister/cpyne/speeches 
@@ -64,6 +69,14 @@ Australian Strategic Policy Institute Limited,Defence,https://www.aspi.org.au/ou
 Defence Housing Australia,Defence,https://www.dha.gov.au/about-us/news-and-events
 Department of Veterans' Affairs,Defence,https://www.dva.gov.au/about-dva/media-centre
 Australian War Memorial,Defence,https://www.awm.gov.au/media/press-releases
+Senator the Hon Linda Reynolds CSC,Defence,"https://www.minister.defence.gov.au/minister/lreynolds/media-releases 
+https://www.minister.defence.gov.au/news-media/speeches"
+The Hon Alex Hawke MP,Defence,"https://www.minister.defence.gov.au/minister/alex-hawke/media-releases 
+https://www.minister.defence.gov.au/minister/alex-hawke/speeches"
+The Hon Darren Chester MP,Defence,"http://minister.dva.gov.au/media_releases.htm 
+http://minister.dva.gov.au/speeches.htm"
+The Hon Melissa Price MP,Defence,"https://www.minister.defence.gov.au/minister/melissa-price/media-releases 
+https://www.minister.defence.gov.au/minister/melissa-price/speeches"
 Department of Education,Education,"https://www.education.gov.au/news 
 https://ministers.education.gov.au/"
 Australian Curriculum Assessment and Reporting Authority,Education,https://www.acara.edu.au/news-and-media/media-releases
@@ -71,8 +84,11 @@ Australian Institute for Teaching and School Leadership Limited,Education,https:
 Australian National University,Education,https://www.anu.edu.au/news/all-news
 Australian Research Council,Education,https://www.arc.gov.au/news-publications/media/media-releases
 Tertiary Education Quality and Standards Agency,Education,https://www.teqsa.gov.au/latest-news?f%5B0%5D=type%3Amedia_release
+The Hon Daniel Tehan MP,Education,https://ministers.education.gov.au/tehan-0
 Department of Employment Skills Small and Family Business,Employment Skills Small and Family Business,https://www.employment.gov.au/newsroom
 Australian Skills Quality Authority (National Vocational Education and Training Regulator),Employment Skills Small and Family Business,https://www.asqa.gov.au/news-publications/media
+Senator the Hon Michaelia Cash,Employment Skills Small and Family Business,https://ministers.employment.gov.au/cash
+The Hon Steve Irons MP,Employment Skills Small and Family Business,https://ministers.employment.gov.au/irons
 Department of the Environment and Energy,Environment and Energy,http://www.environment.gov.au/water/cewo/media-release
 Australian Renewable Energy Agency,Environment and Energy,https://arena.gov.au/news/
 Bureau of Meteorology,Environment and Energy,http://media.bom.gov.au/releases/
@@ -82,6 +98,12 @@ Director of National Parks,Environment and Energy,https://www.environment.gov.au
 Great Barrier Reef Marine Park Authority,Environment and Energy,http://www.gbrmpa.gov.au/news-room/latest-news
 Snowy Hydro Ltd,Environment and Energy,https://www.snowyhydro.com.au/tag/media-release/
 Sydney Harbour Federation Trust,Environment and Energy,https://www.harbourtrust.gov.au/en/media-centre/
+The Hon David Littleproud MP,Environment and Energy,"https://minister.infrastructure.gov.au/littleproud/media-release
+https://minister.agriculture.gov.au/littleproud/media-releases"
+The Hon Sussan Ley MP,Environment and Energy,https://minister.environment.gov.au/ley/news?field_media_category_tid=25
+The Hon Trevor Evans MP,Environment and Energy,https://minister.environment.gov.au/evans/news
+The Hon Angus Taylor MP,Environment and Energy,"https://minister.environment.gov.au/taylor/news 
+https://minister.environment.gov.au/taylor/news?field_media_category_tid=24"
 Department of Finance,Finance,https://www.finance.gov.au/news/
 ASC Pty Ltd,Finance,"https://www.asc.com.au/news-media/latest-news/ 
 https://www.asc.com.au/news-media/speeches-conference-papers/"
@@ -90,11 +112,18 @@ Australian Naval Infrastructure Pty Ltd,Finance,https://www.ani.com.au/news/
 Commonwealth Superannuation Corporation,Finance,https://www.csc.gov.au/Members/News/
 Future Fund Management Agency,Finance,https://www.futurefund.gov.au/news-room?from=&to=&itemsperpage=&Content+Type=9ca2538c-3619-41e2-92d8-8b5854c18e7e&Content+Type=6cdc46f0-af4d-475a-88b6-bc0b9e38f5cf
 Independent Parliamentary Expenses Authority,Finance,https://www.ipea.gov.au/home-media-centre-media-centre/media-releases-statements
+Senator the Hon Mathias Cormann,Finance,"https://www.financeminister.gov.au/media
+https://www.financeminister.gov.au/speeches"
+Senator the Hon Zed Seselja,Finance,"https://www.financeminister.gov.au/assistant/media-releases 
+https://www.financeminister.gov.au/assistant/speeches"
 Department of Foreign Affairs and Trade,Foreign Affairs and Trade,"https://dfat.gov.au/news/media/Pages/media.aspx 
 https://dfat.gov.au/news/speeches/Pages/speeches.aspx"
 Australian Centre for International Agricultural Research,Foreign Affairs and Trade,https://www.aciar.gov.au/search?search_api_views_fulltext=media+release
 Australian Trade and Investment Commission (Austrade),Foreign Affairs and Trade,https://www.austrade.gov.au/News/Media-releases
 Export Finance and Insurance Corporation (EFIC) (Export Finance Australia),Foreign Affairs and Trade,https://www.exportfinance.gov.au/search/?s=media+release
+Senator the Hon Marise Payne,Foreign Affairs and Trade,https://minister.agriculture.gov.au/McKenzie/speeches-and-transcripts
+Senator the Hon Simon Birmingham,Foreign Affairs and Trade,"https://trademinister.gov.au/releases/Pages/default.aspx 
+https://trademinister.gov.au/speeches/Pages/default.aspx"
 Department of Health,Health,https://www.health.gov.au/news?f%5B0%5D=type%3Adepartmental_media
 Aged Care Quality and Safety Commission,Health,https://www.agedcarequality.gov.au/news-media
 Australian Commission on Safety and Quality in Health Care,Health,https://www.safetyandquality.gov.au/publications-and-resources/media-releases
@@ -106,11 +135,19 @@ Independent Hospital Pricing Authority,Health,https://www.ihpa.gov.au/media-rele
 National Blood Authority,Health,https://www.blood.gov.au/search/media%20release
 National Health and Medical Research Council,Health,https://www.nhmrc.gov.au/search?search=media+release&field_publication_date=&field_publication_date_1=&content_type_filter=1
 Organ and Tissue Authority,Health,https://donatelife.gov.au/search?search_api_views_fulltext=media+release
+The Hon Greg Hunt MP,Health,https://www.health.gov.au/ministers/media-centre?f%5B0%5D=field_related_ministers%3A3871
+Senator the Hon Richard Colbeck,Health,https://www.health.gov.au/ministers/media-centre?f%5B0%5D=field_related_ministers%3A6197
 Department of Home Affairs,Home Affairs,https://www.homeaffairs.gov.au/search?k=media%20release
 Australian Criminal Intelligence Commission,Home Affairs,https://www.acic.gov.au/media-centre/media-releases-and-statements
 Australian Federal Police,Home Affairs,https://www.afp.gov.au/news-media/media-releases
 Australian Institute of Criminology,Home Affairs,https://aic.gov.au/media-centre/media-releases-and-statements
 Australian Transaction Reports and Analysis Centre,Home Affairs,https://www.austrac.gov.au/about-us/media-release
+The Hon Peter Dutton MP,Home Affairs,"https://minister.homeaffairs.gov.au/peterdutton/Pages/Media-Releases.aspx  
+https://minister.homeaffairs.gov.au/peterdutton/Pages/Speeches-and-Transcripts.aspx"
+The Hon Jason Wood MP,Home Affairs,"https://minister.homeaffairs.gov.au/jasonwood/Pages/Media-Releases.aspx 
+https://minister.homeaffairs.gov.au/jasonwood/Pages/Speeches-and-Transcripts.aspx"
+The Hon David Coleman MP,Home Affairs,"https://minister.homeaffairs.gov.au/davidcoleman/Pages/Media-Releases.aspx 
+https://minister.homeaffairs.gov.au/davidcoleman/Pages/Speeches-and-Transcripts.aspx"
 Department of Industry Innovation and Science,Industry Innovation and Science,https://www.industry.gov.au/news-media
 Australian Institute of Marine Science,Industry Innovation and Science,https://www.aims.gov.au/docs/media/media.html
 Australian Nuclear Science and Technology Organisation,Industry Innovation and Science,https://www.ansto.gov.au/news
@@ -118,6 +155,8 @@ Commonwealth Scientific and Industrial Research Organisation,Industry Innovation
 IP Australia,Industry Innovation and Science,https://www.ipaustralia.gov.au/about-us/news-and-community/news
 National Offshore Petroleum Safety and Environmental Management Authority,Industry Innovation and Science,https://www.nopsema.gov.au/news-and-media/latest-news/
 Northern Australia Infrastructure Facility,Industry Innovation and Science,https://naif.gov.au/media-and-publications/
+The Hon Karen Andrews MP,Industry Innovation and Science,https://www.minister.industry.gov.au/ministers/karenandrews
+Senator the Hon Matthew Canavan,Industry Innovation and Science,https://www.minister.industry.gov.au/ministers/Canavan/media_releases
 Department of Infrastructure Transport Cities and Regional Development,Infrastructure Transport Cities and Regional Development,https://www.infrastructure.gov.au/department/media/releases_speeches.aspx
 Airservices Australia,Infrastructure Transport Cities and Regional Development,https://newsroom.airservicesaustralia.com/releases
 Australian Maritime Safety Authority,Infrastructure Transport Cities and Regional Development,https://www.amsa.gov.au/news-community/news-and-media-releases
@@ -130,6 +169,14 @@ National Capital Authority,Infrastructure Transport Cities and Regional Developm
 National Faster Rail Agency,Infrastructure Transport Cities and Regional Development,https://www.nfra.gov.au/news-centre/latest-news-and-stories/media-releases
 National Transport Commission,Infrastructure Transport Cities and Regional Development,https://www.ntc.gov.au/news
 WSA Co Limited,Infrastructure Transport Cities and Regional Development,https://westernsydney.com.au/search/result?keys=media+release
+The Hon Michael McCormack MP,Infrastructure Transport Cities and Regional Development,"https://minister.infrastructure.gov.au/mccormack/media-release 
+https://minister.infrastructure.gov.au/mccormack/speech"
+The Hon Alan Tudge MP,Infrastructure Transport Cities and Regional Development,"https://minister.infrastructure.gov.au/tudge/media-release  
+https://minister.infrastructure.gov.au/tudge/speech"
+The Hon Mark Coulton MP,Infrastructure Transport Cities and Regional Development,"https://minister.infrastructure.gov.au/coulton/media-release 
+https://minister.infrastructure.gov.au/coulton/speech https://www.health.gov.au/ministers/media-centre?f%5B0%5D=field_related_ministers%3A6209"
+The Hon Scott Buchholz MP,Infrastructure Transport Cities and Regional Development,https://minister.infrastructure.gov.au/buchholz/media-release
+The Hon Nola Marino MP,Infrastructure Transport Cities and Regional Development,https://minister.infrastructure.gov.au/marino/media-release
 Department of Parliamentary Services,Parliamentary Departments,https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Migration/RegionalMigration/Media_Releases
 Department of the House of Representatives,Parliamentary Departments,https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Migration/RegionalMigration/Media_Releases
 Department of the Senate,Parliamentary Departments,https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Migration/RegionalMigration/Media_Releases
@@ -150,12 +197,21 @@ Tiwi Land Council,Prime Minister and Cabinet,http://www.tiwilandcouncil.com/inde
 Torres Strait Regional Authority,Prime Minister and Cabinet,http://www.tsra.gov.au/news-and-resources
 Workplace Gender Equality Agency,Prime Minister and Cabinet,https://www.wgea.gov.au/newsroom/media-releases
 Wreck Bay Aboriginal Community Council,Prime Minister and Cabinet,http://www.wbacc.gov.au/press-releases/
-Australian Hearing Services,,https://www.hearing.com.au/About-Hearing-Australia/Hearing-news
-Digital Transformation Agency,,https://www.dta.gov.au/news-blogs/all
+The Hon Scott Morrison MP,Prime Minister and Cabinet,https://www.pm.gov.au/media
+The Hon Ken Wyatt AM MP,Prime Minister and Cabinet,https://ministers.pmc.gov.au/wyatt
+The Hon Ben Morton MP,Prime Minister and Cabinet,https://ministers.pmc.gov.au/morton
+The Hon Andrew Gee MP,Prime Minister and Cabinet,https://minister.infrastructure.gov.au/gee/media-release
+Australian Hearing Services,Social Services,https://www.hearing.com.au/About-Hearing-Australia/Hearing-news
+Digital Transformation Agency,Social Services,https://www.dta.gov.au/news-blogs/all
 Department of Social Services,Social Services,https://www.dta.gov.au/news-blogs/feed/all
 Australian Institute of Family Studies,Social Services,https://aifs.gov.au/media-centre
 National Disability Insurance Scheme Launch Transition Agency,Social Services,https://www.ndis.gov.au/news/media-releases
 NDIS Quality and Safeguards Commission,Social Services,https://www.ndiscommission.gov.au/news-media/media-releases
+Senator the Hon Anne Ruston,Social Services,"https://ministers.dss.gov.au/anne-ruston/media-releases 
+https://ministers.dss.gov.au/anne-ruston/speeches"
+The Hon Stuart Robert MP,Social Services,https://ministers.dss.gov.au/stuart-robert
+The Hon Michelle Landry MP,Social Services,https://ministers.dss.gov.au/michelle-landry/media-releases
+The Hon Luke Howarth MP,Social Services,https://ministers.dss.gov.au/luke-howarth
 Department of the Treasury,Treasury,https://treasury.gov.au/media-release
 Australian Bureau of Statistics,Treasury,https://www.abs.gov.au/Ausstats/abs@.nsf/dd0ca10eed681f12ca2570ce0082655d!OpenView
 Australian Competition and Consumer Commission,Treasury,https://www.accc.gov.au/media/media-releases
@@ -174,3 +230,9 @@ Office of the Australian Accounting Standards Board,Treasury,https://www.aasb.go
 Productivity Commission,Treasury,https://www.pc.gov.au/news-media/media-releases
 Reserve Bank of Australia,Treasury,https://www.rba.gov.au/media-releases/
 Royal Australian Mint,Treasury,https://www.ramint.gov.au/news-media
+The Hon Josh Frydenberg MP,Treasury,"http://ministers.treasury.gov.au/ministers/josh-frydenberg-2018/media-releases
+http://ministers.treasury.gov.au/ministers/josh-frydenberg-2018/speeches"
+The Hon Michael Sukkar MP,Treasury,"http://ministers.treasury.gov.au/ministers/michael-sukkar-2019/media-releases 
+http://ministers.treasury.gov.au/ministers/michael-sukkar-2019/speeches"
+Senator the Hon Jane Hume,Treasury,"https://ministers.treasury.gov.au/ministers/jane-hume-2019/media-releases 
+https://ministers.treasury.gov.au/ministers/jane-hume-2019/speeches"
