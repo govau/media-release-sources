@@ -9,7 +9,7 @@ Online sources are tracked in a CSV file which can be converted to OPML. The OPM
 
 Use converters/csv2opml.py to convert the current CSV file into an OPML file.
 ```python
-python csv2opml.py ../media-release-rss.csv
+python csv2opml.py ../rss_feeds.csv
 ```
 
 Use the newly created OPML file in your feed reader.
@@ -24,7 +24,7 @@ Note: You can view which Australian Government websites the media releases are c
 
 ### Update the sources
 
-The media-release-rss.csv file can be updated to include any missing Australian Government RSS feeds that contain media releases.
+The `rss_feeds.csv` file can be updated to include any missing Australian Government RSS feeds that contain media releases.
 
 When updating:
 1. All fields should be encapsulated in double quotes (") and seperated by a comma (,)
@@ -35,14 +35,14 @@ When updating:
     - HTML URL<br />The address where the media releases can be viewed on the website.
     - Notes<br />Any notes concerning the content of the feed (for example if the feed may contain non-media release items).
 
-The parsers/rssparser.py file will read a CSV file containing RSS feeds with all necessary fields, fetch all of the items from each of the feeds and output some of the key details from each item.
+The `parsers/rssparser.py` file will read a CSV file containing RSS feeds with all necessary fields, fetch all of the items from each of the feeds and output some of the key details from each item.
 ```python
 python rssparser.py csv_filename
 ```
 
 ## Future development
 
-1. Updates to media-release-rss.csv will trigger csv2opml.py to be run against it and the resulting OPML file will be updated in the repository.
+1. Updates to `rss_feeds.csv` will trigger `csv2opml.py` to be run against it and the resulting OPML file will be updated in the repository.
 2. Subscription service for media releases. Initial designs can be viewed in the "ui" folder.
 
 ![User interface design for subscribing to Australian Government media releases as seen in ui/subscribe.html](/docs/images/ui.PNG)
