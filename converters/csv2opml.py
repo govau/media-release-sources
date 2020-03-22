@@ -30,8 +30,7 @@ with open(out_filename, 'w') as opml_file:
     opml_file.write('    <head>\n')
     opml_file.write('        <title>Australian Government Media Releases</title>\n')
     opml_file.write('    </head>\n')
-    opml_file.write('    <body>\n')
-    opml_file.write('        <outline text="Australian Government Media Releases" title="Australian Government Media Releases">\n')
+    opml_file.write('    <body>\n')    
     for row in feeds:
         if portfolio == "":
             portfolio = row[0]
@@ -42,6 +41,5 @@ with open(out_filename, 'w') as opml_file:
             opml_file.write('            <outline text="' + portfolio + '" title="' + portfolio + '">\n')
         opml_file.write('                <outline type="rss" text="' + row[1] + '" title="' + row[1] + '" xmlUrl="' + row[2] + '"/>\n')
     opml_file.write('            </outline>\n')
-    opml_file.write('        </outline>\n')
     opml_file.write('    </body>\n')
     opml_file.write('</opml>\n')
