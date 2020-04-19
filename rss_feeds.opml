@@ -20,7 +20,7 @@
                 <outline type="rss" text="Safe Work Australia" title="Safe Work Australia" xmlUrl="https://www.safeworkaustralia.gov.au/rss/news"/>
             </outline>
             <outline text="Communications and the Arts" title="Communications and the Arts">
-                <outline type="rss" text="The Hon Paul Fletcher MP" title="The Hon Paul Fletcher MP" xmlUrl="https://www.minister.communications.gov.au/rss.xml"/>
+                <outline type="rss" text="The Hon Paul Fletcher MP" title="The Hon Paul Fletcher MP" xmlUrl="https://minister.infrastructure.gov.au/rss.xml"/>
                 <outline type="rss" text="Department of Communications and the Arts" title="Department of Communications and the Arts" xmlUrl="https://www.communications.gov.au/news/feed"/>
                 <outline type="rss" text="NBN Co Limited" title="NBN Co Limited" xmlUrl="https://www.nbnco.com.au/utility/rss/media-statements.xml"/>
             </outline>
@@ -80,7 +80,7 @@
                 <outline type="rss" text="The Hon Angus Taylor MP" title="The Hon Angus Taylor MP" xmlUrl="https://minister.environment.gov.au/feed/taylor/rss.xml"/>
             </outline>
             <outline text="Prime Minister and Cabinet" title="Prime Minister and Cabinet">
-                <outline type="rss" text="Department of Prime Minister and Cabinet" title="Department of Prime Minister and Cabinet" xmlUrl=" https://www.pm.gov.au/media/rss"/>
+                <outline type="rss" text="The Hon Scott Morrison MP" title="The Hon Scott Morrison MP" xmlUrl=" https://www.pm.gov.au/media/rss"/>
             </outline>
             <outline text="Social Services" title="Social Services">
                 <outline type="rss" text="Senator the Hon Anne Ruston" title="Senator the Hon Anne Ruston" xmlUrl="https://ministers.dss.gov.au/feeds/anne-ruston/rss.xml"/>
