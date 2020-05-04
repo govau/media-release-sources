@@ -13,7 +13,7 @@ jobs:
       uses: actions/setup-python@v1
       with:
         python-version: 3.8
-    - name: Update OPML file
+    - name: Update OPML and MD file
       run: |
         pip install csv2md
         python converters/csv2opml.py rss_feeds.csv
@@ -29,7 +29,7 @@ jobs:
         name: rss_feeds.md
         path: rss_feeds.md
       if: always()
-    - name: Commit the OPML file
+    - name: Commit the OPML and MD files
       run: |
         echo ${{ github.ref }}
         git add .
