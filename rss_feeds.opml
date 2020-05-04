@@ -13,7 +13,7 @@
             <outline text="Attorney General" title="Attorney General">
                 <outline type="rss" text="Australian Commission for Law Enforcement Integrity" title="Australian Commission for Law Enforcement Integrity" xmlUrl="https://www.aclei.gov.au/rss.xml"/>
                 <outline type="rss" text="Australian Human Rights Commission" title="Australian Human Rights Commission" xmlUrl="https://www.humanrights.gov.au/sites/default/files/content/rss/media.xml"/>
-                <outline type="rss" text="Comcare" title="Comcare" xmlUrl="https://www.comcare.gov.au/news__and__media/rss_feeds/rss_news2"/>
+                <outline type="rss" text="Comcare" title="Comcare" xmlUrl="https://www.comcare.gov.au/about/news-events/rss_feeds/rss_news"/>
                 <outline type="rss" text="Federal Court of Australia" title="Federal Court of Australia" xmlUrl="http://www.fedcourt.gov.au/rss/news-and-events-rss"/>
                 <outline type="rss" text="Office of the Australian Information Commissioner" title="Office of the Australian Information Commissioner" xmlUrl="https://www.oaic.gov.au/updates/news-and-media/rss"/>
                 <outline type="rss" text="Office of the Director of Public Prosecutions" title="Office of the Director of Public Prosecutions" xmlUrl="https://www.cdpp.gov.au/news/rss.xml"/>
