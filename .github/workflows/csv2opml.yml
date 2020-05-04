@@ -1,0 +1,43 @@
+# This workflow will run the csv2opml.py converter and push the updated OPML file.
+
+name: CSV and MD File Updater
+on:
+  push:
+    branches: [ master ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
+    - name: Update OPML file
+      run: |
+        pip install csv2md
+        python converters/csv2opml.py rss_feeds.csv
+        csv2md rss_feeds.csv > rss_feeds.md
+    - name: Upload OPML file
+      uses: actions/upload-artifact@master
+      with:
+        name: rss_feeds.opml
+        path: rss_feeds.opml
+    - name: Upload MD File
+      uses: actions/upload-artifact@master
+      with:
+        name: rss_feeds.md
+        path: rss_feeds.md
+      if: always()
+    - name: Commit the OPML file
+      run: |
+        echo ${{ github.ref }}
+        git add .
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "Automated build push: Update OPML/MD files" -a | exit 0
+    - name: Push changes
+      if: github.ref == 'refs/heads/master'
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
