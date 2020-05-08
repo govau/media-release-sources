@@ -1,0 +1,25 @@
+# This workflow will check the links in the rss_feeds.csv file and report back any broken links.
+
+name: RSS Feed Validator
+on:
+  schedule:
+    - cron:  '20 05 * * 5'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
+    - name: RSS Feed Links Checker
+      uses: peter-evans/link-checker@v1
+      with:
+        args: rss_feeds.md
+    - name: Create Issue Identifying Broken Links
+      uses: peter-evans/create-issue-from-file@v2
+      with:
+        title: CSV URL Checker
+        content-filepath: ./link-checker/out.md
+        labels: broken link report, automated issue
