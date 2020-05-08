@@ -3,7 +3,7 @@
 name: RSS Feed Validator
 on:
   schedule:
-    - cron:  '0 15 * * 5'
+    - cron:  '15 05 * * 5'
 jobs:
   build:
     runs-on: ubuntu-latest
