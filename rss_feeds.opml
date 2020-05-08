@@ -5,7 +5,6 @@
     </head>
     <body>
             <outline text="Agriculture" title="Agriculture">
-                <outline type="rss" text="Department of Agriculture" title="Department of Agriculture" xmlUrl="https://www.agriculture.gov.au/about/media-centre/media-releases/media_releases_rss"/>
                 <outline type="rss" text="Australian Bureau of Agricultural and Resource Economics" title="Australian Bureau of Agricultural and Resource Economics" xmlUrl="https://www.agriculture.gov.au/abares/news/media-releases/rss"/>
                 <outline type="rss" text="Australian Fisheries Management Authority" title="Australian Fisheries Management Authority" xmlUrl="https://feeds.feedburner.com/AustralianFisheriesManagementAuthority"/>
                 <outline type="rss" text="Wine Australia" title="Wine Australia" xmlUrl="https://www.wineaustralia.com/special-pages/rss/stories"/>
@@ -63,18 +62,17 @@
                 <outline type="rss" text="Australian Radiation Protection and Nuclear Safety Agency" title="Australian Radiation Protection and Nuclear Safety Agency" xmlUrl="https://www.arpansa.gov.au/whats-new.rss"/>
                 <outline type="rss" text="Australian Sports Anti-Doping Authority" title="Australian Sports Anti-Doping Authority" xmlUrl="https://www.asada.gov.au/news/rss.xml"/>
                 <outline type="rss" text="National Blood Authority" title="National Blood Authority" xmlUrl="https://www.blood.gov.au/rss.xml"/>
-                <outline type="rss" text="National Mental Health Commission" title="National Mental Health Commission" xmlUrl="http://www.mentalhealthcommission.gov.au/Rss"/>
             </outline>
             <outline text="Home Affairs" title="Home Affairs">
                 <outline type="rss" text="Australian Federal Police" title="Australian Federal Police" xmlUrl="https://www.afp.gov.au/feed/media-releases"/>
                 <outline type="rss" text="Australian Transaction Reports and Analysis Centre" title="Australian Transaction Reports and Analysis Centre" xmlUrl="https://www.austrac.gov.au/media-release/rss.xml"/>
-                <outline type="rss" text="The Hon Peter Dutton MP" title="The Hon Peter Dutton MP" xmlUrl="https://minister.homeaffairs.gov.au/_layouts/SP.Minister/Rss.aspx?type=media&amp;mini=peterdutton"/>
+                <outline type="rss" text="The Hon Peter Dutton MP" title="The Hon Peter Dutton MP" xmlUrl="https://minister.homeaffairs.gov.au/_layouts/15/AppPages/Rss.aspx?type=media&mini=peterdutton"/>
             </outline>
             <outline text="Human Services" title="Human Services">
                 <outline type="rss" text="Digital Transformation Agency" title="Digital Transformation Agency" xmlUrl="https://www.dta.gov.au/news-blogs/feed/all"/>
             </outline>
             <outline text="Infrastructure Transport Cities and Regional Development" title="Infrastructure Transport Cities and Regional Development">
-                <outline type="rss" text="Department of Infrastructure Transport Cities and Regional Development" title="Department of Infrastructure Transport Cities and Regional Development" xmlUrl="https://www.bitre.gov.au/rss/new_releases.xml"/>
+                <outline type="rss" text="Department of Infrastructure Transport Cities and Regional Development" title="Department of Infrastructure Transport Cities and Regional Development" xmlUrl="https://www.bitre.gov.au/rss.xml"/>
             </outline>
             <outline text="Minister for Energy and Emissions Reduction" title="Minister for Energy and Emissions Reduction">
                 <outline type="rss" text="The Hon Angus Taylor MP" title="The Hon Angus Taylor MP" xmlUrl="https://minister.environment.gov.au/feed/taylor/rss.xml"/>
