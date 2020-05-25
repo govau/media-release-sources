@@ -16,7 +16,7 @@ jobs:
     - name: RSS Feed Links Checker
       uses: peter-evans/link-checker@v1
       with:
-        args: rss_feeds.md
+        args: -t 5 rss_feeds.md
     - name: Create Issue Identifying Broken Links
       uses: peter-evans/create-issue-from-file@v2
       with:
