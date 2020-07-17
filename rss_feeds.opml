@@ -43,7 +43,7 @@
             <outline text="Environment and Energy" title="Environment and Energy">
                 <outline type="rss" text="Department of the Environment and Energy" title="Department of the Environment and Energy" xmlUrl="http://www.environment.gov.au/rss-feed"/>
                 <outline type="rss" text="Bureau of Meteorology" title="Bureau of Meteorology" xmlUrl="http://media.bom.gov.au/rss/"/>
-                <outline type="rss" text="Climate Change Authority" title="Climate Change Authority" xmlUrl="http://climatechangeauthority.gov.au/latest.xml"/>
+                <outline type="rss" text="Climate Change Authority" title="Climate Change Authority" xmlUrl="https://www.climatechangeauthority.gov.au/rss.xml"/>
                 <outline type="rss" text="The Hon Sussan Ley MP" title="The Hon Sussan Ley MP" xmlUrl="https://minister.environment.gov.au/feed/ley/rss.xml"/>
                 <outline type="rss" text="The Hon Trevor Evans MP" title="The Hon Trevor Evans MP" xmlUrl="https://minister.environment.gov.au/feed/evans/rss.xml"/>
             </outline>
