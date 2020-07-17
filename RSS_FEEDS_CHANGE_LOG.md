@@ -1,5 +1,9 @@
 ## Media Release Feeds Change Log
 
+##### Update 17/07/2020
+
+- Updated Climate Change Authority RSS feed.
+
 ##### Update 03/07/2020
 
 - Removed The Hon Peter Dutton MP RSS feed, feed remains broken.
