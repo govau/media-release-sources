@@ -1,5 +1,11 @@
 ## Media Release Feeds Change Log
 
+##### Update 07/08/2020
+
+- Updated DESE feeds.
+- Fixed Portfolio names that were no longer valid.
+
+
 ##### Update 17/07/2020
 
 - Updated Climate Change Authority RSS feed.

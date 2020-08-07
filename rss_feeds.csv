@@ -1,33 +1,27 @@
 Portfolio,Feed Name,Feed URL
-Agriculture,Australian Bureau of Agricultural and Resource Economics,https://www.agriculture.gov.au/abares/news/media-releases/rss
-Agriculture,Australian Fisheries Management Authority,https://feeds.feedburner.com/AustralianFisheriesManagementAuthority
-Agriculture,Wine Australia,https://www.wineaustralia.com/special-pages/rss/stories
-Attorney General,Australian Commission for Law Enforcement Integrity,https://www.aclei.gov.au/rss.xml
-Attorney General,Australian Human Rights Commission,https://www.humanrights.gov.au/sites/default/files/content/rss/media.xml
-Attorney General,Comcare,https://www.comcare.gov.au/about/news-events/rss_feeds/rss_news
-Attorney General,Federal Court of Australia,http://www.fedcourt.gov.au/rss/news-and-events-rss
-Attorney General,Office of the Australian Information Commissioner,https://www.oaic.gov.au/updates/news-and-media/rss
-Attorney General,Office of the Director of Public Prosecutions,https://www.cdpp.gov.au/news/rss.xml
-Attorney General,Safe Work Australia,https://www.safeworkaustralia.gov.au/rss/news
-Communications and the Arts,The Hon Paul Fletcher MP,https://minister.infrastructure.gov.au/rss.xml
-Communications and the Arts,Department of Communications and the Arts,https://www.communications.gov.au/news/feed
-Communications and the Arts,NBN Co Limited,https://www.nbnco.com.au/utility/rss/media-statements.xml
+Agriculture Water and the Environment,Australian Bureau of Agricultural and Resource Economics,https://www.agriculture.gov.au/abares/news/media-releases/rss
+Agriculture Water and the Environment,Australian Fisheries Management Authority,https://feeds.feedburner.com/AustralianFisheriesManagementAuthority
+Agriculture Water and the Environment,Wine Australia,https://www.wineaustralia.com/special-pages/rss/stories
+Agriculture Water and the Environment,Department of Agriculture Water and the Environment,http://www.environment.gov.au/rss-feed
+Agriculture Water and the Environment,Bureau of Meteorology,http://media.bom.gov.au/rss/
+Agriculture Water and the Environment,Climate Change Authority,https://www.climatechangeauthority.gov.au/rss.xml
+Agriculture Water and the Environment,The Hon Sussan Ley MP,https://minister.environment.gov.au/feed/ley/rss.xml
+Agriculture Water and the Environment,The Hon Trevor Evans MP,https://minister.environment.gov.au/feed/evans/rss.xml
+Attorney General's,Australian Commission for Law Enforcement Integrity,https://www.aclei.gov.au/rss.xml
+Attorney General's,Australian Human Rights Commission,https://www.humanrights.gov.au/sites/default/files/content/rss/media.xml
+Attorney General's,Comcare,https://www.comcare.gov.au/about/news-events/rss_feeds/rss_news
+Attorney General's,Federal Court of Australia,http://www.fedcourt.gov.au/rss/news-and-events-rss
+Attorney General's,Office of the Australian Information Commissioner,https://www.oaic.gov.au/updates/news-and-media/rss
+Attorney General's,Office of the Director of Public Prosecutions,https://www.cdpp.gov.au/news/rss.xml
+Attorney General's,Safe Work Australia,https://www.safeworkaustralia.gov.au/rss/news
 Defence,Australian Strategic Policy Institute Limited,https://www.aspi.org.au/rss/news.rss
-Education,Department of Education,https://ministers.education.gov.au/releases_rss?release_types=15
-Education,Department of Education,https://ministers.education.gov.au/releases_rss?release_types=16
-Education,Department of Education,https://ministers.education.gov.au/releases_rss?release_types=17
-Education,The Hon Daniel Tehan MP,https://ministers.education.gov.au/releases_rss?minister=13611
-Education,The Hon Steve Irons MP,https://ministers.employment.gov.au/releases_rss?minister=16106
-Employment Skills Small and Family Business,Department of Employment  Skills Small and Family Business,https://ministers.employment.gov.au/releases_rss?release_types=15
-Employment Skills Small and Family Business,Department of Employment  Skills Small and Family Business,https://ministers.employment.gov.au/releases_rss?release_types=16
-Employment Skills Small and Family Business,Department of Employment  Skills Small and Family Business,https://ministers.employment.gov.au/releases_rss?release_types=17
-Employment Skills Small and Family Business,Australian Skills Quality Authority (National Vocational Education and Training Regulator),https://www.asqa.gov.au/rss.xml
-Employment Skills Small and Family Business,Senator the Hon Michaelia Cash,https://ministers.employment.gov.au/releases_rss?minister=13105
-Environment and Energy,Department of the Environment and Energy,http://www.environment.gov.au/rss-feed
-Environment and Energy,Bureau of Meteorology,http://media.bom.gov.au/rss/
-Environment and Energy,Climate Change Authority,https://www.climatechangeauthority.gov.au/rss.xml
-Environment and Energy,The Hon Sussan Ley MP,https://minister.environment.gov.au/feed/ley/rss.xml
-Environment and Energy,The Hon Trevor Evans MP,https://minister.environment.gov.au/feed/evans/rss.xml
+Education Skills and Employment,DESE Media Releases,https://ministers.dese.gov.au/releases_rss?release_types=15
+Education Skills and Employment,DESE Transcripts,https://ministers.dese.gov.au/releases_rss?release_types=16
+Education Skills and Employment,DESE Speeches,https://ministers.dese.gov.au/releases_rss?release_types=17
+Education Skills and Employment,The Hon Daniel Tehan MP,https://ministers.dese.gov.au/releases_rss?minister=15286
+Education Skills and Employment,The Hon Steve Irons MP,https://ministers.dese.gov.au/releases_rss?minister=16106
+Education Skills and Employment,Australian Skills Quality Authority (National Vocational Education and Training Regulator),https://www.asqa.gov.au/rss.xml
+Education Skills and Employment,Senator the Hon Michaelia Cash,https://ministers.dese.gov.au/releases_rss?minister=13105
 Finance,Senator the Hon Mathias Cormann,https://ministers.treasury.gov.au/ministers/mathias-cormann-2014/media-releases/feed
 Finance,Senator the Hon Jane Hume,https://ministers.treasury.gov.au/ministers/jane-hume-2019/media-releases/feed
 Foreign Affairs and Trade,Australian Trade and Investment Commission (Austrade),http://feeds.feedburner.com/Austrade
@@ -40,13 +34,17 @@ Health,Australian Sports Anti-Doping Authority,https://www.asada.gov.au/news/rss
 Health,National Blood Authority,https://www.blood.gov.au/rss.xml
 Home Affairs,Australian Federal Police,https://www.afp.gov.au/feed/media-releases
 Home Affairs,Australian Transaction Reports and Analysis Centre,https://www.austrac.gov.au/media-release/rss.xml
-Human Services,Digital Transformation Agency,https://www.dta.gov.au/news-blogs/feed/all
-Infrastructure Transport Cities and Regional Development,Department of Infrastructure Transport Cities and Regional Development,https://www.bitre.gov.au/rss.xml
-Minister for Energy and Emissions Reduction,The Hon Angus Taylor MP,https://minister.environment.gov.au/feed/taylor/rss.xml
+Industry Science Energy and Resources,The Hon Angus Taylor MP,https://minister.environment.gov.au/feed/taylor/rss.xml
+Infrastructure Transport Regional Development and Communications,Bureau of Infrastructure,https://www.bitre.gov.au/rss.xml
+Infrastructure Transport Regional Development and Communications,Ministers for Infrastructure Transport Regional Development and Communications,https://minister.infrastructure.gov.au/rss.xml
+Infrastructure Transport Regional Development and Communications,Communications News,https://www.communications.gov.au/news/feed
+Infrastructure Transport Regional Development and Communications,NBN Co Limited,https://www.nbnco.com.au/utility/rss/media-statements.xml
+Infrastructure Transport Regional Development and Communications, The Hon Andrew Gee MP, https://ministers.dese.gov.au/releases_rss?minister=18682
 Prime Minister and Cabinet,The Hon Scott Morrison MP, https://www.pm.gov.au/media/rss
 Social Services,Senator the Hon Anne Ruston,https://ministers.dss.gov.au/feeds/anne-ruston/rss.xml
-Social Services,The Hon Stuart Robert MP,https://ministers.dss.gov.au/feeds/stuart-robert/rss.xml
 Social Services,The Hon Luke Howarth MP,https://ministers.dss.gov.au/feeds/luke-howarth/rss.xml
+Social Services,The Hon Stuart Robert MP,https://ministers.dss.gov.au/feeds/stuart-robert/rss.xml
+Social Services,Digital Transformation Agency,https://www.dta.gov.au/news-blogs/feed/all
 Treasury,Department of the Treasury,https://treasury.gov.au/rss-feeds
 Treasury,Australian Bureau of Statistics,https://www.abs.gov.au/AUSSTATS/wmdata.nsf/activerss/mediaReleases_rss/$File/mediaReleases_rss.xml
 Treasury,Australian Taxation Office,https://www.ato.gov.au/rss.aspx?category=1837
