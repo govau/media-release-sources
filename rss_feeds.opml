@@ -4,12 +4,17 @@
         <title>Australian Government Media Releases</title>
     </head>
     <body>
-            <outline text="Agriculture" title="Agriculture">
+            <outline text="Agriculture Water and the Environment" title="Agriculture Water and the Environment">
                 <outline type="rss" text="Australian Bureau of Agricultural and Resource Economics" title="Australian Bureau of Agricultural and Resource Economics" xmlUrl="https://www.agriculture.gov.au/abares/news/media-releases/rss"/>
                 <outline type="rss" text="Australian Fisheries Management Authority" title="Australian Fisheries Management Authority" xmlUrl="https://feeds.feedburner.com/AustralianFisheriesManagementAuthority"/>
                 <outline type="rss" text="Wine Australia" title="Wine Australia" xmlUrl="https://www.wineaustralia.com/special-pages/rss/stories"/>
+                <outline type="rss" text="Department of Agriculture Water and the Environment" title="Department of Agriculture Water and the Environment" xmlUrl="http://www.environment.gov.au/rss-feed"/>
+                <outline type="rss" text="Bureau of Meteorology" title="Bureau of Meteorology" xmlUrl="http://media.bom.gov.au/rss/"/>
+                <outline type="rss" text="Climate Change Authority" title="Climate Change Authority" xmlUrl="https://www.climatechangeauthority.gov.au/rss.xml"/>
+                <outline type="rss" text="The Hon Sussan Ley MP" title="The Hon Sussan Ley MP" xmlUrl="https://minister.environment.gov.au/feed/ley/rss.xml"/>
+                <outline type="rss" text="The Hon Trevor Evans MP" title="The Hon Trevor Evans MP" xmlUrl="https://minister.environment.gov.au/feed/evans/rss.xml"/>
             </outline>
-            <outline text="Attorney General" title="Attorney General">
+            <outline text="Attorney General's" title="Attorney General's">
                 <outline type="rss" text="Australian Commission for Law Enforcement Integrity" title="Australian Commission for Law Enforcement Integrity" xmlUrl="https://www.aclei.gov.au/rss.xml"/>
                 <outline type="rss" text="Australian Human Rights Commission" title="Australian Human Rights Commission" xmlUrl="https://www.humanrights.gov.au/sites/default/files/content/rss/media.xml"/>
                 <outline type="rss" text="Comcare" title="Comcare" xmlUrl="https://www.comcare.gov.au/about/news-events/rss_feeds/rss_news"/>
@@ -18,34 +23,17 @@
                 <outline type="rss" text="Office of the Director of Public Prosecutions" title="Office of the Director of Public Prosecutions" xmlUrl="https://www.cdpp.gov.au/news/rss.xml"/>
                 <outline type="rss" text="Safe Work Australia" title="Safe Work Australia" xmlUrl="https://www.safeworkaustralia.gov.au/rss/news"/>
             </outline>
-            <outline text="Communications and the Arts" title="Communications and the Arts">
-                <outline type="rss" text="The Hon Paul Fletcher MP" title="The Hon Paul Fletcher MP" xmlUrl="https://minister.infrastructure.gov.au/rss.xml"/>
-                <outline type="rss" text="Department of Communications and the Arts" title="Department of Communications and the Arts" xmlUrl="https://www.communications.gov.au/news/feed"/>
-                <outline type="rss" text="NBN Co Limited" title="NBN Co Limited" xmlUrl="https://www.nbnco.com.au/utility/rss/media-statements.xml"/>
-            </outline>
             <outline text="Defence" title="Defence">
                 <outline type="rss" text="Australian Strategic Policy Institute Limited" title="Australian Strategic Policy Institute Limited" xmlUrl="https://www.aspi.org.au/rss/news.rss"/>
             </outline>
-            <outline text="Education" title="Education">
-                <outline type="rss" text="Department of Education" title="Department of Education" xmlUrl="https://ministers.education.gov.au/releases_rss?release_types=15"/>
-                <outline type="rss" text="Department of Education" title="Department of Education" xmlUrl="https://ministers.education.gov.au/releases_rss?release_types=16"/>
-                <outline type="rss" text="Department of Education" title="Department of Education" xmlUrl="https://ministers.education.gov.au/releases_rss?release_types=17"/>
-                <outline type="rss" text="The Hon Daniel Tehan MP" title="The Hon Daniel Tehan MP" xmlUrl="https://ministers.education.gov.au/releases_rss?minister=13611"/>
-                <outline type="rss" text="The Hon Steve Irons MP" title="The Hon Steve Irons MP" xmlUrl="https://ministers.employment.gov.au/releases_rss?minister=16106"/>
-            </outline>
-            <outline text="Employment Skills Small and Family Business" title="Employment Skills Small and Family Business">
-                <outline type="rss" text="Department of Employment  Skills Small and Family Business" title="Department of Employment  Skills Small and Family Business" xmlUrl="https://ministers.employment.gov.au/releases_rss?release_types=15"/>
-                <outline type="rss" text="Department of Employment  Skills Small and Family Business" title="Department of Employment  Skills Small and Family Business" xmlUrl="https://ministers.employment.gov.au/releases_rss?release_types=16"/>
-                <outline type="rss" text="Department of Employment  Skills Small and Family Business" title="Department of Employment  Skills Small and Family Business" xmlUrl="https://ministers.employment.gov.au/releases_rss?release_types=17"/>
+            <outline text="Education Skills and Employment" title="Education Skills and Employment">
+                <outline type="rss" text="DESE Media Releases" title="DESE Media Releases" xmlUrl="https://ministers.dese.gov.au/releases_rss?release_types=15"/>
+                <outline type="rss" text="DESE Transcripts" title="DESE Transcripts" xmlUrl="https://ministers.dese.gov.au/releases_rss?release_types=16"/>
+                <outline type="rss" text="DESE Speeches" title="DESE Speeches" xmlUrl="https://ministers.dese.gov.au/releases_rss?release_types=17"/>
+                <outline type="rss" text="The Hon Daniel Tehan MP" title="The Hon Daniel Tehan MP" xmlUrl="https://ministers.dese.gov.au/releases_rss?minister=15286"/>
+                <outline type="rss" text="The Hon Steve Irons MP" title="The Hon Steve Irons MP" xmlUrl="https://ministers.dese.gov.au/releases_rss?minister=16106"/>
                 <outline type="rss" text="Australian Skills Quality Authority (National Vocational Education and Training Regulator)" title="Australian Skills Quality Authority (National Vocational Education and Training Regulator)" xmlUrl="https://www.asqa.gov.au/rss.xml"/>
-                <outline type="rss" text="Senator the Hon Michaelia Cash" title="Senator the Hon Michaelia Cash" xmlUrl="https://ministers.employment.gov.au/releases_rss?minister=13105"/>
-            </outline>
-            <outline text="Environment and Energy" title="Environment and Energy">
-                <outline type="rss" text="Department of the Environment and Energy" title="Department of the Environment and Energy" xmlUrl="http://www.environment.gov.au/rss-feed"/>
-                <outline type="rss" text="Bureau of Meteorology" title="Bureau of Meteorology" xmlUrl="http://media.bom.gov.au/rss/"/>
-                <outline type="rss" text="Climate Change Authority" title="Climate Change Authority" xmlUrl="https://www.climatechangeauthority.gov.au/rss.xml"/>
-                <outline type="rss" text="The Hon Sussan Ley MP" title="The Hon Sussan Ley MP" xmlUrl="https://minister.environment.gov.au/feed/ley/rss.xml"/>
-                <outline type="rss" text="The Hon Trevor Evans MP" title="The Hon Trevor Evans MP" xmlUrl="https://minister.environment.gov.au/feed/evans/rss.xml"/>
+                <outline type="rss" text="Senator the Hon Michaelia Cash" title="Senator the Hon Michaelia Cash" xmlUrl="https://ministers.dese.gov.au/releases_rss?minister=13105"/>
             </outline>
             <outline text="Finance" title="Finance">
                 <outline type="rss" text="Senator the Hon Mathias Cormann" title="Senator the Hon Mathias Cormann" xmlUrl="https://ministers.treasury.gov.au/ministers/mathias-cormann-2014/media-releases/feed"/>
@@ -67,22 +55,24 @@
                 <outline type="rss" text="Australian Federal Police" title="Australian Federal Police" xmlUrl="https://www.afp.gov.au/feed/media-releases"/>
                 <outline type="rss" text="Australian Transaction Reports and Analysis Centre" title="Australian Transaction Reports and Analysis Centre" xmlUrl="https://www.austrac.gov.au/media-release/rss.xml"/>
             </outline>
-            <outline text="Human Services" title="Human Services">
-                <outline type="rss" text="Digital Transformation Agency" title="Digital Transformation Agency" xmlUrl="https://www.dta.gov.au/news-blogs/feed/all"/>
-            </outline>
-            <outline text="Infrastructure Transport Cities and Regional Development" title="Infrastructure Transport Cities and Regional Development">
-                <outline type="rss" text="Department of Infrastructure Transport Cities and Regional Development" title="Department of Infrastructure Transport Cities and Regional Development" xmlUrl="https://www.bitre.gov.au/rss.xml"/>
-            </outline>
-            <outline text="Minister for Energy and Emissions Reduction" title="Minister for Energy and Emissions Reduction">
+            <outline text="Industry Science Energy and Resources" title="Industry Science Energy and Resources">
                 <outline type="rss" text="The Hon Angus Taylor MP" title="The Hon Angus Taylor MP" xmlUrl="https://minister.environment.gov.au/feed/taylor/rss.xml"/>
+            </outline>
+            <outline text="Infrastructure Transport Regional Development and Communications" title="Infrastructure Transport Regional Development and Communications">
+                <outline type="rss" text="Bureau of Infrastructure" title="Bureau of Infrastructure" xmlUrl="https://www.bitre.gov.au/rss.xml"/>
+                <outline type="rss" text="Ministers for Infrastructure Transport Regional Development and Communications" title="Ministers for Infrastructure Transport Regional Development and Communications" xmlUrl="https://minister.infrastructure.gov.au/rss.xml"/>
+                <outline type="rss" text="Communications News" title="Communications News" xmlUrl="https://www.communications.gov.au/news/feed"/>
+                <outline type="rss" text="NBN Co Limited" title="NBN Co Limited" xmlUrl="https://www.nbnco.com.au/utility/rss/media-statements.xml"/>
+                <outline type="rss" text=" The Hon Andrew Gee MP" title=" The Hon Andrew Gee MP" xmlUrl=" https://ministers.dese.gov.au/releases_rss?minister=18682"/>
             </outline>
             <outline text="Prime Minister and Cabinet" title="Prime Minister and Cabinet">
                 <outline type="rss" text="The Hon Scott Morrison MP" title="The Hon Scott Morrison MP" xmlUrl=" https://www.pm.gov.au/media/rss"/>
             </outline>
             <outline text="Social Services" title="Social Services">
                 <outline type="rss" text="Senator the Hon Anne Ruston" title="Senator the Hon Anne Ruston" xmlUrl="https://ministers.dss.gov.au/feeds/anne-ruston/rss.xml"/>
-                <outline type="rss" text="The Hon Stuart Robert MP" title="The Hon Stuart Robert MP" xmlUrl="https://ministers.dss.gov.au/feeds/stuart-robert/rss.xml"/>
                 <outline type="rss" text="The Hon Luke Howarth MP" title="The Hon Luke Howarth MP" xmlUrl="https://ministers.dss.gov.au/feeds/luke-howarth/rss.xml"/>
+                <outline type="rss" text="The Hon Stuart Robert MP" title="The Hon Stuart Robert MP" xmlUrl="https://ministers.dss.gov.au/feeds/stuart-robert/rss.xml"/>
+                <outline type="rss" text="Digital Transformation Agency" title="Digital Transformation Agency" xmlUrl="https://www.dta.gov.au/news-blogs/feed/all"/>
             </outline>
             <outline text="Treasury" title="Treasury">
                 <outline type="rss" text="Department of the Treasury" title="Department of the Treasury" xmlUrl="https://treasury.gov.au/rss-feeds"/>
